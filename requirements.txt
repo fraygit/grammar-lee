@@ -1,2 +1,2 @@
-gradio
+gradio==5.34.0
 anthropic
